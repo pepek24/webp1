@@ -1,0 +1,13 @@
+.thankYou{
+	display:flex;
+}
+iframe{
+	padding:50px;
+}
+.gmaps{
+	display:flex;
+	justify-content:center;
+}
+.author img{
+	width:68%;
+}
